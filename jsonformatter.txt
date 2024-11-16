@@ -1,0 +1,98 @@
+{
+  "match": {
+    "Player1": "Chou Tien Chen",
+    "Player1 Score": 1,
+    "Player2": "Lakshya Sen",
+    "Player2 Score": 2,
+    "Rally 1": {
+      "Court Reach": {
+        "Player1": {
+          "Description": [
+            "far side of the court"
+          ],
+          "Timestamp": [
+            "00:00:13"
+          ]
+        },
+        "Player2": {
+          "Description": [
+            "far side of the court"
+          ],
+          "Timestamp": [
+            "00:00:14"
+          ]
+        }
+      },
+      "Footwork": {
+        "Player1": {
+          "Description": [
+            "Good footwork"
+          ],
+          "Timestamp": [
+            "00:00:20"
+          ]
+        },
+        "Player2": {
+          "Description": [
+            "Good footwork",
+            "Good footwork",
+            "Good footwork",
+            "Good footwork",
+            "Good footwork"
+          ],
+          "Timestamp": [
+            "00:00:20",
+            "00:00:33",
+            "00:00:45",
+            "00:01:01",
+            "00:01:09"
+          ]
+        }
+      },
+      "Fouls": {
+        "Player1": {
+          "Description": [
+            "It's wide"
+          ],
+          "Timestamp": [
+            "00:01:29"
+          ],
+          "count": 1
+        },
+        "Player2": {
+          "Description": [],
+          "Timestamp": [],
+          "count": 0
+        }
+      },
+      "Smashes": {
+        "Player1": {
+          "Timestamp": [
+            "00:00:20"
+          ],
+          "count": 1
+        },
+        "Player2": {
+          "Timestamp": [
+            "00:00:20"
+          ],
+          "count": 1
+        }
+      },
+      "Stamina": {
+        "Player1": {
+          "Description": "Excellent Stamina",
+          "percentage": 95
+        },
+        "Player2": {
+          "Description": "Excellent Stamina",
+          "percentage": 95
+        }
+      },
+      "from": "00:00:05",
+      "to": "00:03:00",
+      "rally_shots_count": 25
+    },
+    "rally_count": 1
+  }
+}
